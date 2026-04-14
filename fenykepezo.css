@@ -1,0 +1,12 @@
+.gradient
+{
+    background: rgb(34,34,34);
+    background: linear-gradient(90deg, rgba(34,34,34,1) 0%, rgba(95,122,140,0.85) 60%, rgba(95,122,140,0) 100%);
+}
+
+h1
+{
+    padding: 30px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px black;
+}

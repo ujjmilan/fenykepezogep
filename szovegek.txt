@@ -1,0 +1,18 @@
+---- TÖRTÉNETE ----
+A fényképezés fejlődése hosszú folyamat eredménye: a camera obscura elvét már évszázadokkal korábban ismerték, a rögzíthető képek előállítása azonban csak a 19. században vált lehetővé. A technika fejlődésével a fényképezőgépek egyre kisebbek, pontosabbak és könnyebben használhatók lettek.
+
+Az analóg korszakban a filmre rögzített képek előhívása külön folyamatot igényelt, míg a digitális fényképezőgépek megjelenésével a képek azonnal visszanézhetővé váltak. A fényképezőgépek ma már a mindennapi dokumentálás, a művészi alkotás és a tudományos megfigyelés fontos eszközei.
+
+A különböző géptípusok eltérő célokra készülnek: a kompakt modellek egyszerű használatot kínálnak, a tükörreflexes és tükör nélküli gépek pedig nagyobb kontrollt biztosítanak a fotós számára.
+
+---- KÉP MAGYARÁZAT ----
+Fényképezőgép felülnézetből. Jól látható az objektív, a kereső, a vakupapucs és a kezelőszervek elhelyezkedése.
+
+---- ALKATRÉSZEK FELSOROLÁSA ----
+    Kioldógomb
+    Kontroll gombok
+    Üzemmódválasztó tárcsa
+    Kereső
+    Nyakszíj rögzítőfül
+    Fúkuszgyűrű
+    Zoomgyűrű 
