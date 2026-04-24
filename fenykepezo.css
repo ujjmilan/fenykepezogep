@@ -9,4 +9,46 @@ h1
     padding: 30px;
     text-transform: uppercase;
     text-shadow: 2px 2px 4px black;
+    font-size: 60px;
+    color: white;
+}
+
+.dolt {
+    font-style: italic;
+}
+
+.felso_margo {
+    margin-top: 30px;
+}
+
+.felirat {
+    text-align: center;
+    font-size: 10px;
+    color: #444;
+    margin-top: 12px;
+}
+
+.jobboszlop {
+    background-color: #333;
+    color: white;
+}
+
+.keretes {
+    border: 6px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sorkoz {
+    line-height: 2em;
+}
+
+.lablec {
+    border: 2px dotted black;
+    text-align: center;
+    padding: 20px;
+}
+
+.felkover {
+    font-weight: bold;
 }
